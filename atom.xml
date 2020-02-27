@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rayoungtech.github.io</id>
     <title>RayoungTech</title>
-    <updated>2020-02-26T07:50:21.269Z</updated>
+    <updated>2020-02-27T12:25:13.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rayoungtech.github.io"/>
     <link rel="self" href="https://rayoungtech.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://rayoungtech.github.io/images/avatar.png</logo>
     <icon>https://rayoungtech.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, RayoungTech</rights>
+    <entry>
+        <title type="html"><![CDATA[键盘]]></title>
+        <id>https://rayoungtech.github.io/post/keyboard/</id>
+        <link href="https://rayoungtech.github.io/post/keyboard/">
+        </link>
+        <updated>2020-02-27T12:19:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://rayoungtech.github.io/product/keyboard/rk-series">RK 键盘套件/成品</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品]]></title>
         <id>https://rayoungtech.github.io/post/product/</id>
