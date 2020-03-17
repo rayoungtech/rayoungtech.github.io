@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rayoung.tech</id>
     <title>RayoungTech</title>
-    <updated>2020-03-17T14:53:31.990Z</updated>
+    <updated>2020-03-17T14:57:38.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.rayoung.tech"/>
     <link rel="self" href="https://www.rayoung.tech/atom.xml"/>
@@ -46,7 +46,10 @@
         <link href="https://www.rayoung.tech/post/huan-ying-lai-dao-rui-ke-ji-welcome-to-rayoung-tech/">
         </link>
         <updated>2020-03-17T07:15:19.000Z</updated>
-        <content type="html"><![CDATA[<p>不知道该写什么。。。。。。</p>
+        <content type="html"><![CDATA[<p>这是一个属于大家的网站，所以最近打算征稿，要求Word格式<br>
+写好的可以weixin：13141340600<br>
+到时候我会把稿子提交到网站上的🙂<br>
+Ray</p>
 ]]></content>
     </entry>
 </feed>
