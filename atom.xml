@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rayoung.tech</id>
     <title>RayoungTech</title>
-    <updated>2020-10-11T11:17:43.796Z</updated>
+    <updated>2020-10-11T11:40:34.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.rayoung.tech"/>
     <link rel="self" href="https://www.rayoung.tech/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://www.rayoung.tech/post/csp-j1-shi-juan-fu-da-an/">
         </link>
         <updated>2020-10-11T11:10:45.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://rayoung.tech/cGNBbGl2ZVJvb21NYXRlcmlhbC11XzVmNjQ1ZDYwYjYzOGJfdkI1eUZjWDV3OC02YWIxYTg4Mw.pdf">在这里</a><br>
+        <content type="html"><![CDATA[<p><a href="http://file.rayoung.tech/cGNBbGl2ZVJvb21NYXRlcmlhbC11XzVmNjQ1ZDYwYjYzOGJfdkI1eUZjWDV3OC02YWIxYTg4Mw.pdf">在这里</a><br>
 <img src="https://s1.ax1x.com/2020/10/11/0guQat.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
